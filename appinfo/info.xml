@@ -7,7 +7,7 @@
     <description><![CDATA[With this app you can see who did what and at what time]]></description>
     <licence>agpl</licence>
     <author mail="info@extensys.it" homepage="http://extensys.it/">Extensys</author>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <namespace>ActivityLog</namespace>
     <category>tools</category>
     <dependencies>
