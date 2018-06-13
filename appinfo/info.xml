@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <id>activitylog</id>
+    <name>Activity Log</name>
+    <summary>This app tracks down activity on your server</summary>
+    <description><![CDATA[With this app you can see who did what and at what time]]></description>
+    <licence>agpl</licence>
+    <author mail="info@extensys.it" homepage="http://extensys.it/">Extensys</author>
+    <version>0.0.1</version>
+    <namespace>ActivityLog</namespace>
+    <category>tools</category>
+    <dependencies>
+        <owncloud min-version="9.2"/>
+        <nextcloud min-version="11" max-version="13"/>
+    </dependencies>
+</info>

@@ -1,0 +1,18 @@
+input{
+	width: 230px !important;
+	margin: 0px 10px !important;
+	margin-top: 10px !important;
+}
+.title{
+	margin: 10px 10px 0 10px !important;
+}
+.radioB{
+	margin: 0px !important;
+}
+.radioBI{
+	margin: 0px !important;
+	width: 20% !important;
+}
+#submitD{
+	margin-bottom: 10px !important;
+}
