@@ -1,12 +1,12 @@
 <?php
 namespace OCA\ActivityLog\Db;
 
-use OCP\IDb;
+use OCP\IDBConnection;
 use OCP\AppFramework\Db\Mapper;
 
 class ActivityMapper extends Mapper {
 
-    public function __construct(IDb $db) {
+    public function __construct(IDBConnection $db) {
         parent::__construct($db, 'activity', '\OCA\ActivityLog\Db\Activity');
     }
 
