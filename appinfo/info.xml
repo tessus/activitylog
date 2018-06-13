@@ -4,8 +4,8 @@
     <id>activitylog</id>
     <name>Activity Log</name>
     <summary>This app tracks down activity on your server</summary>
-    <description><![CDATA[With this app you can see who did what and at what time]]></description>
-    <licence>agpl</licence>
+    <description>With this app you can see who did what and at what time></description>
+    <licence>AGPL</licence>
     <author mail="info@extensys.it" homepage="http://extensys.it/">Extensys</author>
     <version>0.0.2</version>
     <namespace>ActivityLog</namespace>
